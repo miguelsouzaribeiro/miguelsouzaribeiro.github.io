@@ -2,4 +2,4 @@
 
 ![img](img/jose_fino.jpg)
 
-txt "Olá você tem **Biscoito**?" color white
+ "Olá você tem **Biscoito**?
