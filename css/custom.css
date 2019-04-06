@@ -1,0 +1,24 @@
+p {
+  font-size: 15px;
+}
+
+.magrinha {
+  font-weight: 900;
+  color: orange
+}
+
+.gordinha {
+  font-weight: 900;
+  color: yellow;
+  font-family: "Times";
+}
+
+.titulo-joinha {
+  font-height: 400px
+  font-weight: 100;
+  color: white !important;
+}
+
+.h250 {
+  min-height: 250px;
+}
