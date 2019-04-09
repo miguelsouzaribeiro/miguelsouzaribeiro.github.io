@@ -22,3 +22,60 @@ p {
 .h300 {
   min-height: 300px;
 }
+.capa-subtitulo2 {
+/*  font-family: 'Asap', sans-serif;*/
+font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  font-weight: 900;
+  line-height: 25px;
+  color: #0E6714;
+}
+.capa-subtitulo1 {
+/*  font-family: 'Asap', sans-serif;*/
+font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 05px;
+  color: orange;
+}
+
+.capa-titulo {
+/*  font-family: 'Asap', sans-serif;*/
+  font-family: 'Francois One', sans-serif;
+  font-size: 150px;
+  font-weight: 900;
+  line-height: 150px;
+}
+
+.capa-rosa {
+  color: #FE0055;
+}
+
+.capa-verde {
+  color: #A9FF00;
+}
+.capa-azul {
+  color: #5766FF;
+}
+
+.capa-vermelho {
+  color: #FC0000;
+}
+.capa-amarelo {
+  color: #F5C800;
+}
+
+.capa-roxo {
+  color: #6600AF;
+}
+
+.editora {
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 50px;
+}
+
+body {
+  padding-top: 20px;
+}
