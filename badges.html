@@ -21,16 +21,24 @@
   <!-- Passo 1: navbar: 4 links -->
   <nav>
     <div class="nav-wrapper">
-      <a href="index.html" class="brand-logo left">Miguel Investimentos</a>
+      <a href="index.html" class="brand-logo">Miguel</a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul id="nav-mobile" class="right hide-on-small-only">
         <li><a href="capa.html">Capa</a></li>
-
         <li><a href="Patrocinadores.html">Patrocinadores</a></li>
-        <li class="active"><a href="badges.html">Funcionários</a></li>
-      <li><a href="historico.html">Histórico</a></li>
+        <li><a href="badges.html">Funcionários</a></li>
+        <li><a href="historico.html">Histórico</a></li>
       </ul>
     </div>
   </nav>
+
+  <!-- menu lateral -->
+  <ul class="sidenav" id="mobile-demo">
+    <li><a href="imagens.html">Imagens</a></li>
+    <li><a href="Patrocinadores.html">Patrocinadores</a></li>
+    <li><a href="badges.html">Funcionários</a></li>
+    <li><a href="historico.html">Histórico</a></li>
+  </ul>
 
   <!-- Passo 2:
   salve uma imagem relacionada em img/hero.jpg
@@ -150,5 +158,6 @@ Funcionarios
     </div>
   </div>
     </div>
+        <script src="js/scripts.js"></script>
 </body>
 </html>
