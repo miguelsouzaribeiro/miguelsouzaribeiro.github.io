@@ -75,3 +75,58 @@ font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   line-height: 50px;
 }
+th{
+  background-color: black;
+  color: white;
+  padding: 4px;
+}
+
+td{
+  padding: 4px;
+}
+.numero {
+  text-align: center;
+}
+
+.nome{
+width: 300px;
+}
+
+.nota {
+    font-weight: 900;
+    font-size: 22px;
+  text-align: center;
+}
+
+.boa {
+  color: green;
+}
+
+.ruim {
+  color: red;
+}
+
+.xxxxxx {
+ list-style-type: disc;
+ list-style-type: circle;
+ list-style-type: square;
+ list-style-type: decimal;
+ list-style-type: georgian;
+ list-style-type: cjk-ideographic;
+ list-style-type: kannada;
+}
+.disco{
+   list-style-type: circle;
+}
+ol.alfabetica {
+  list-style: upper-alpha;
+}
+
+.romano{
+ list-style-type: upper-roman;
+}
+
+.quadradinho{
+
+  list-style-type: square;
+}
