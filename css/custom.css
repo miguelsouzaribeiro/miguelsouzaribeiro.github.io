@@ -77,8 +77,13 @@ font-family: 'Montserrat', sans-serif;
 }
 th{
   background-color: black;
-  color: white;
   padding: 4px;
+}
+
+th span {
+  background: linear-gradient(#e66465, #9198e5);
+  -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
 }
 
 td{
@@ -106,15 +111,10 @@ width: 300px;
   color: red;
 }
 
-.xxxxxx {
- list-style-type: disc;
- list-style-type: circle;
- list-style-type: square;
- list-style-type: decimal;
- list-style-type: georgian;
- list-style-type: cjk-ideographic;
- list-style-type: kannada;
+.mediana {
+  color: black;
 }
+
 .disco{
    list-style-type: circle;
 }
@@ -129,4 +129,8 @@ ol.alfabetica {
 .quadradinho{
 
   list-style-type: square;
+}
+
+table {
+  background: linear-gradient(#e66465, #fff);
 }
