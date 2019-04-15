@@ -28,11 +28,13 @@
 }
 .solavanco {
   position: absolute;
-  right: 55px;
+  right: 45px;
   bottom: 55px;
-  background-color: darkblue;
-  width: 50px;
-  height: 50px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 35px 60.6px 35px;
+border-color: transparent transparent #4f77a1 transparent;
   z-index: 6;
 }
 
